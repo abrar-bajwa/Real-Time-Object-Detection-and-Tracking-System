@@ -1,5 +1,5 @@
 # Real-Time-Object-Detection-and-Tracking-System
-Real-Time Object Detection and Tracking System  
+
 # Description: 
 This algorithm is a real-time object detection and tracking system that utilizes deep learning techniques and OpenCV library to detect and track objects in real-time video streams. It uses a pre-trained object detection model (such as YOLO or Faster R-CNN) to detect objects in each frame of the video stream and applies non-maximum suppression to remove duplicate detections. A tracking algorithm (such as Kalman filter or correlation filter) is used to track the detected objects across multiple frames. The algorithm also provides a real-time visual output of the object detection and tracking system.
 # Potential Applications
